@@ -1,7 +1,5 @@
 from pyrogram import Client
 from config import Config as tg
-from aiohttp import web
-from route import web_server
 
 class Bot(Client):
 
