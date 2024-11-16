@@ -39,7 +39,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### COMMANDS
+## COMMANDS
 
 <b><details><summary>Tap On Me For Commands</summary>
 ```
@@ -50,6 +50,7 @@ help - To get help how to use bot
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<details>
 <summary><h3>
 - <b> ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅs </b>
 </h3></summary>
@@ -90,7 +91,7 @@ Edit config.py with variables as given below then run bot
 python3 main.py
 </pre>
 </p>
-
+</details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
