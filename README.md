@@ -1,9 +1,12 @@
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <h1 align="center">
  <b><a href="https://t.me/sb_reactionbot" target="/blank">Auto Reaction Bot</a>
 </h1>
 
 <p align="center">🩷 Thanks for Being Here 🩷</p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 ### 🥰 FEATURES
@@ -18,8 +21,9 @@
 - [Developer support](https://t.me/+Vegv963Nf2kzYzBl) 24x7
 </details>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 🔥 VARIABLES
+### VARIABLES
 
 <details><summary>Tap On Me For Environment Variable</summary>
 
@@ -33,7 +37,9 @@
 </details>
 </b>
 
-### 😍 COMMANDS
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### COMMANDS
 
 <b><details><summary>Tap On Me For Commands</summary>
 ```
@@ -42,7 +48,54 @@ help - To get help how to use bot
 ```
 </details>
 
-### 🥳 CREDIT
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<details>
+<summary><h3>
+- <b> ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅs </b>
+</h3></summary>
+<h3 align="center">
+    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
+</h3>
+
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/USERNAME/REPO">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy On Heroku">
+</a></p>
+<h3 align="center">
+    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ᴋᴏʏᴇʙ 」─
+</h3>
+<p align="center"><a href="https://app.koyeb.com/deploy?type=git&repository=USERNAME/REPO&branch=main&name=main">
+  <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy On Koyeb">
+</a></p>
+<h3 align="center">
+    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʀᴀɪʟᴡᴀʏ 」─
+</h3>
+<p align="center"><a href="https://railway.app/deploy?template=https://github.com/USERNAME/REPO"">
+     <img height="45px" src="https://railway.app/button.svg">
+</a></p>
+<h3 align="center">
+    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʀᴇɴᴅᴇʀ 」─
+</h3>
+<p align="center"><a href="https://render.com/deploy?repo=https://github.com/USERNAME/REPO">
+<img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
+</a></p> 
+<h3 align="center">
+    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ᴠᴘs 」─
+</h3>
+<p>
+<pre>
+git clone https://github.com/USERNAME/REPO.git
+# Install Packages
+pip3 install -U -r requirements.txt
+Edit config.py with variables as given below then run bot
+python3 main.py
+</pre>
+</p>
+</details>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### CREDIT
 
 <details><summary>Tap On Me For Credit</summary>
 
@@ -50,7 +103,9 @@ help - To get help how to use bot
 💝 Modifications Credit Goes To [ՏIᒪᗴᑎT ᘜᕼOՏT ⚡️](https://t.me/THE_DS_OFFICIAL)
 
 💘 Base Repo Credit [TheCaduceus]()
+
 </details>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 💕 CONTACT DEVELOPER
 
@@ -60,3 +115,5 @@ help - To get help how to use bot
 ### 📌 NOTE
 
 𝘊𝘰𝘱𝘺𝘪𝘯𝘨 𝘰𝘳 𝘚𝘦𝘭𝘭𝘪𝘯𝘨 𝘵𝘩𝘪𝘴 𝘳𝘦𝘱𝘰 𝘪𝘴 𝘴𝘵𝘳𝘪𝘤𝘵𝘭𝘺 𝘱𝘳𝘰𝘩𝘪𝘣𝘪𝘵𝘦𝘥.</b>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
