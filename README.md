@@ -54,7 +54,7 @@ help - To get help how to use bot
  <h3>
 - <b> ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅs </b>
 </h3>
-<b><details><summary>Tap On Me For deployment method</summary>
+<b><summary>Tap On Me For deployment method</summary>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
