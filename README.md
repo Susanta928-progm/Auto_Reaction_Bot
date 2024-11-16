@@ -10,7 +10,7 @@
 
 <details><summary>Tap On Me For Bot Features</summary>
 
-- unlimited reactions
+- unlimited / custom reactions
 - Supports all type of emojies
 - work in both channels & groups
 - Fully modified repo
@@ -27,9 +27,9 @@
 * `API_HASH` - Get From [Here](https://telegram.me/sb_botz_update)
 * `BOT_TOKEN` - Get From [BotFather](https://telegram.me/BotFather)
 * `BOT_USERNAME` - Username of your Telegram bot without '@'
-* `FSUB` - Make True if you want Force Subscribe 
-* `FSUB_ID` - FSub Channel Id get from telegram 🙂
-* `SB_PIC` - Start Pic Of Bot, put your link 
+* `FSUB` - Make True if you want force subscribe 
+* `FSUB_ID` - fsub channel id get from telegram 🙂
+* `SB_PIC` - put the link for start pic
 </details>
 </b>
 
@@ -47,7 +47,7 @@ help - To get help how to use bot
 <details><summary>Tap On Me For Credit</summary>
 
 
-💝 Credit Goes To [CodeXBots]()
+💝 Modifications Credit Goes To [ՏIᒪᗴᑎT ᘜᕼOՏT ⚡️](https://t.me/THE_DS_OFFICIAL)
 
 💘 Base Repo Credit [TheCaduceus]()
 </details>
