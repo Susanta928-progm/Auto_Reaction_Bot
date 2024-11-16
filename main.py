@@ -5,7 +5,7 @@ from route import web_server
 
 class Bot(Client):
 
-    def start(self):
+    async def start(self):
         super().start(
             name="tgbot",
             api_id=tg.API_ID,
