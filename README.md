@@ -27,6 +27,9 @@
 * `API_HASH` - Get From [Here](https://telegram.me/sb_botz_update)
 * `BOT_TOKEN` - Get From [BotFather](https://telegram.me/BotFather)
 * `BOT_USERNAME` - Username of your Telegram bot without '@'
+* `FSUB` - Make True if you want Force Subscribe 
+* `FSUB_ID` - FSub Channel Id get from telegram 🙂
+* `SB_PIC` - Start Pic Of Bot, put your link 
 </details>
 </b>
 
