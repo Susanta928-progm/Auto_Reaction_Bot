@@ -50,7 +50,6 @@ help - To get help how to use bot
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<details>
 <summary><h3>
 - <b> ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅs </b>
 </h3></summary>
@@ -91,14 +90,13 @@ Edit config.py with variables as given below then run bot
 python3 main.py
 </pre>
 </p>
-</details>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### CREDIT
 
 <details><summary>Tap On Me For Credit</summary>
-
 
 💝 Modifications Credit Goes To [ՏIᒪᗴᑎT ᘜᕼOՏT ⚡️](https://t.me/THE_DS_OFFICIAL)
 
@@ -111,6 +109,7 @@ python3 main.py
 
 - [Raj Verma](https://telegram.me/Your_rjv)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 📌 NOTE
 
