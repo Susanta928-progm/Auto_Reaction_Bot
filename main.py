@@ -19,14 +19,9 @@ class Bot(Client):
     
     async def start(self):
         await super().start()
-        '''
         me = await self.get_me()
         self.name = me.first_name
-        app = web.AppRunner(await web_server())
-        await app.setup()
-        bind_address = "0.0.0.0"
-        await web.TCPSite(app, bind_address, tg.PORT).start()      
-        print(f'{me.first_name} is Started...🍃')'''
+        print(f'{me.first_name} is Started...🍃')
 
     async def stop(self, *args):
         await super().stop()      
